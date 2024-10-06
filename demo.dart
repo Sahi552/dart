@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   var nickname = 'agent';
   int age = 22;
